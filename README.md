@@ -5,6 +5,8 @@ compresses what's worth compressing, keeps a searchable history of every
 file it's ever seen, and — the whole point — only runs while your computer
 is actually resting.
 
+![Drift Backup screenshot](<Drift Backup - screenshot.png>)
+
 ## What it actually does
 
 - **Deduplication** — every file is stored by a hash of its content. Back
